@@ -3,7 +3,7 @@ package com.packtpub.deliverydroid;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class DeliveryDroidActivity extends Activity {
+public class SelectRestaurantActivity extends Activity {
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
